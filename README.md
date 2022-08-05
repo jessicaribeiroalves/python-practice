@@ -2,20 +2,20 @@
 Python exercises for learning purposes.
 
 ## First assessment
-- Random Number Guesser
+- Guessing a random number based on a user given range 
 
 ## Second assessment
-- Caesar Cipher
+- Substitution cipher program
 
 ## Third assessment
-- Sort Employees
+- Sorting a list of lists based on different values of a parameter
 
 ## Fourth assessment
-- Longest Unique Words
+- Getting the longest not duplicate words from a list
 
 ## Fifth assessment
-- Pairs Sum To Target
+- Getting the pairs of digits which the sum is equal to a given number
 
 ## Sixth assessment
-- Create Strings From Characters
+- Checking the characters frequency in given strings
 

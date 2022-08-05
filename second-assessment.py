@@ -12,6 +12,6 @@ def caesar_cipher(my_string, offset):
 
 
 print(caesar_cipher('jessica', 2))
-# should return 'hcqqgay'
+# it should return 'hcqqgay'
 print(caesar_cipher('amazonia', 3))
-# should return 'xjxwlkfx'
+# it should return 'xjxwlkfx'
