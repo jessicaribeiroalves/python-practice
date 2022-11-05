@@ -1,21 +1,29 @@
 # python-practice
-Python exercises for learning purposes.
 
-## First assessment
-- Guessing a random number based on a user given range 
+My solutions for [ProgrammingExpert](https://www.programmingexpert.io/) assessments.
 
-## Second assessment
-- Substitution cipher program
+## Programming Fundamentals
 
-## Third assessment
-- Sorting a list of lists based on different values of a parameter
+1. Guessing a random number based on a user given range
 
-## Fourth assessment
-- Getting the longest not duplicate words from a list
+2. Substitution cipher program
 
-## Fifth assessment
-- Getting the pairs of digits which the sum is equal to a given number
+3. Sorting a list of lists based on different values of a parameter
 
-## Sixth assessment
-- Checking the characters frequency in given strings
+4. Getting the longest not duplicate words from a list
 
+5. Getting the pairs of digits which the sum is equal to a given number
+
+6. Checking the characters frequency in given strings
+
+## Object-Oriented Programming
+
+1. Creating an Inventory Class
+
+2. Creating a Student Class
+
+3. Implementing Geometry Inheritance
+
+4. Creating a Deck Class
+
+5. FileSystem Implementation
