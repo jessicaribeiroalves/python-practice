@@ -2,7 +2,7 @@
 
 My solutions for [ProgrammingExpert](https://www.programmingexpert.io/) assessments.
 
-## Programming Fundamentals
+## Programming Fundamentals ✅
 
 1. Guessing a random number based on a user given range
 
@@ -16,7 +16,7 @@ My solutions for [ProgrammingExpert](https://www.programmingexpert.io/) assessme
 
 6. Checking the characters frequency in given strings
 
-## Object-Oriented Programming
+## Object-Oriented Programming ✅
 
 1. Creating an Inventory Class
 
@@ -27,3 +27,9 @@ My solutions for [ProgrammingExpert](https://www.programmingexpert.io/) assessme
 4. Creating a Deck Class
 
 5. FileSystem Implementation
+
+## Advanced Programming
+
+## Programming With Go
+
+## Projects
