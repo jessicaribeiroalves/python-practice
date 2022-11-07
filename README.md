@@ -30,6 +30,36 @@ My solutions for [ProgrammingExpert](https://www.programmingexpert.io/) assessme
 
 ## Advanced Programming
 
+1. Positive Even Squares
+
+2. Integer Sum
+
+3. Generate String
+
+4. Thread Safe Counter
+
+5. Asynchronous Fetcher
+
 ## Programming With Go
 
+1. Keep Longest and Shortest Word
+
+2. Library Books
+
+3. Magic Squares
+
+4. Multiply Strings Concurrently
+
+5. Item Interface
+
 ## Projects
+
+1. Tournament Game Generator
+
+2. Blackjack Card Game
+
+3. Asynchronous Point of Sale System
+
+4. Student Performance
+
+5. Contact List
